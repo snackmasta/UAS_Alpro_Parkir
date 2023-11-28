@@ -1,5 +1,4 @@
-#include <graphics.h>
-#include <stdio.h>
+
 
 void antri(int *slot){
     int antri1 = 10-*slot;
